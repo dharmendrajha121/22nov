@@ -2,4 +2,6 @@ a = 6
 
 b = 7
 
-Print (a+b)
+c = 8
+
+Print (a+b+c);
